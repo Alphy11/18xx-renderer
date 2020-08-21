@@ -1,0 +1,126 @@
+{
+  "name": "Web Development",
+  "abbrev": "webdev",
+  "companies": [
+    {
+      "name": "Angular JS",
+      "abbrev": "A",
+      "color": "red",
+      "logo": "webdev/angular"
+    },
+    {
+      "name": "React JS",
+      "abbrev": "R",
+      "color": "lightBlue",
+      "logo": "webdev/react"
+    },
+    {
+      "name": "Vue JS",
+      "abbrev": "V",
+      "color": "brightGreen",
+      "logo": "webdev/vue"
+    },
+    {
+      "name": "Ember JS",
+      "abbrev": "E",
+      "color": "pink",
+      "logo": "webdev/ember"
+    },
+    {
+      "name": "Google Chrome",
+      "abbrev": "GC",
+      "color": "white",
+      "logo": "webdev/chrome"
+    },
+    {
+      "name": "Mozilla Firefox",
+      "abbrev": "MF",
+      "color": "gold",
+      "logo": "webdev/firefox"
+    },
+    {
+      "name": "Apple Safari",
+      "abbrev": "AS",
+      "color": "turquoise",
+      "logo": "webdev/safari"
+    },
+    {
+      "name": "Microsoft Edge",
+      "abbrev": "ME",
+      "color": "navyBlue",
+      "logo": "webdev/edge"
+    },
+    {
+      "name": "Ruby on Rails",
+      "abbrev": "ROR",
+      "color": "red",
+      "logo": "webdev/rails"
+    },
+    {
+      "name": "Django",
+      "abbrev": "DJ",
+      "color": "lime",
+      "logo": "webdev/django"
+    },
+    {
+      "name": "Symfony",
+      "abbrev": "SYF",
+      "color": "black",
+      "logo": "webdev/symfony"
+    },
+    {
+      "name": "Node Package Manager",
+      "abbrev": "NPM",
+      "color": "red",
+      "logo": "webdev/npm"
+    },
+    {
+      "name": "Yarn Package Manager",
+      "abbrev": "YARN",
+      "color": "lavender",
+      "logo": "webdev/yarn"
+    },
+    {
+      "name": "Git",
+      "abbrev": "GIT",
+      "color": "brown",
+      "logo": "dev/git"
+    },
+    {
+      "name": "Hypertext Markup Language",
+      "abbrev": "HTML",
+      "color": "lightBrown",
+      "logo": "webdev/html5"
+    },
+    {
+      "name": "Cascading Style Sheets",
+      "abbrev": "CSS",
+      "color": "natural",
+      "logo": "webdev/css3"
+    },
+    {
+      "name": "Javascript",
+      "abbrev": "JS",
+      "color": "yellow",
+      "logo": "languages/javascript"
+    },
+    {
+      "name": "Emacs",
+      "abbrev": "E",
+      "color": "violet",
+      "logo": "dev/emacs"
+    },
+    {
+      "name": "Vim",
+      "abbrev": "VIM",
+      "color": "green",
+      "logo": "dev/vim"
+    },
+    {
+      "name": "Visual Studio Code",
+      "abbrev": "VSC",
+      "color": "gray",
+      "logo": "dev/vscode"
+    }
+  ]
+}
